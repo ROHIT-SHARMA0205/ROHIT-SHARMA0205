@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ROHTI SHARMA
+- 👋 Hi, I’m ROHIT SHARMA
 - 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning JAVA SCRIPT
 - 💞️ I’m looking to WORK FOR ONE OF COMPANY TO PROVE MY SELF
-- 📫 How to reach me 73040383182 / rohitsharma26675@gmail.com
+- 📫 How to reach me 7304038183 / rohitsharma26675@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
